@@ -1,0 +1,5 @@
+{"envelopeId": "7c1d2e3f-4a5b-4c6d-8e7f-9a0b1c2d3e4f", "status": "completed", "emailSubject": "Bail - Maison Érable", "completedDateTime": "2026-10-09T17:30:00.0000000Z",
+ "recipients": {"signers": [
+   {"recipientId": "1", "email": "marco@meyers.example", "name": "Marco Meyer", "routingOrder": "1", "status": "completed", "signedDateTime": "2026-10-08T09:00:00.0000000Z"},
+   {"recipientId": "2", "email": "camille@erable.example", "name": "Camille Érable", "routingOrder": "2", "status": "completed", "signedDateTime": "2026-10-09T17:30:00.0000000Z"}
+ ]}}

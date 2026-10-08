@@ -1,0 +1,5 @@
+{"envelopeId": "7c1d2e3f-4a5b-4c6d-8e7f-9a0b1c2d3e4f", "status": "sent", "emailSubject": "Bail - Maison Érable", "sentDateTime": "2026-10-08T08:00:05.0000000Z",
+ "recipients": {"signers": [
+   {"recipientId": "1", "email": "marco@meyers.example", "name": "Marco Meyer", "routingOrder": "1", "clientUserId": "landlord", "status": "sent"},
+   {"recipientId": "2", "email": "camille@erable.example", "name": "Camille Érable", "routingOrder": "2", "clientUserId": "tenant", "status": "created"}
+ ], "recipientCount": "2"}}
