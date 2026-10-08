@@ -23,4 +23,4 @@ no developer account.**
 [Documentation](docs/index.md): the options and the JWT grant, from an envelope to DocuSign's,
 Connect, what was verified.
 
-License: LGPL-3.0-or-later.
+License: MIT since 2026-10-09; earlier versions remain published under LGPL-3.0-or-later.
